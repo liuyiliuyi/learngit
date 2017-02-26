@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage. 
 I'm fourth line.
 I'm diwuhang line.
-I'm diliuhang line.
+Creating a new branch is quick and simple
